@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Computer Science Engineer from India, I like to contribute to new projects and take them up and aspire to be a Software Engineer.</h3>
 
 <img align="right" src="https://github.com/Mahesh-217/Mahesh-217/assets/81688413/45409861-b786-4782-b5df-a31b8e0f0e11" alt="android" width="400"/>
+
 - 📫 Reach me out at maheshmadhav246@gmail.com
   
 - 🌱 I’m currently learning Java development with SpringBoot, App development and DSA
