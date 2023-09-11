@@ -1,8 +1,10 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 💬 Ask me about **Python,DSA**
-
-- 📫 Reach me at **maheshmadhav246@gmail.com**
+  
+- 📫 Reach me out at **maheshmadhav246@gmail.com**
+  
+- 🌱 I’m currently learning Java development with SpringBoot, App development and DSA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
